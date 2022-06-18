@@ -128,7 +128,7 @@ INSERT INTO SpotifyClone.cancao VALUES
     (DEFAULT, "He's Walking Away", 9, 159),
     (DEFAULT, "He's Trouble", 9, 138),
     (DEFAULT, "Thang Of Thunder", 5, 240),
-    (DEFAULT, "Words Of Her Life", 5, 125),
+    (DEFAULT, "Words Of Her Life", 5, 185),
     (DEFAULT, "Sweetie, Let's Go Wild", 3, 139),
     (DEFAULT, "She Knows", 3, 244),
     (DEFAULT, "History Of My Roses", 6, 222),
